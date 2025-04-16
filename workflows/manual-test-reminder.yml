@@ -1,3 +1,72 @@
-git add .github/workflows/manual-test-reminder.yml
-git commit -m "Add GitHub Action for manual test reminder"
-git push
+
+---
+
+## 🧪 Test Plan Overview
+
+| Item              | Description                                      |
+|-------------------|--------------------------------------------------|
+| **Project Name**  | E-commerce Website Manual Testing                |
+| **Test Type**     | Functional Testing                               |
+| **Tools Used**    | Excel, Word, Chrome Browser                      |
+| **Testing Scope** | Login, Search, Cart, Payment, Order Confirmation |
+| **Execution**     | Manual Testing Only                              |
+| **Deliverables**  | Test Cases, Bug Reports, Test Summary            |
+
+---
+
+## ✅ Features & Test Case Summary
+
+| Feature           | No. of Test Cases | Status      |
+|-------------------|-------------------|-------------|
+| Login             | 6                 | ✅ Completed |
+| Product Search    | 5                 | ✅ Completed |
+| Add to Cart       | 5                 | ✅ Completed |
+| Payment Flow      | 6                 | ✅ Completed |
+| Order Confirmation| 4                 | ✅ Completed |
+
+---
+
+## 🐞 Bug Tracking
+
+Bug reports are maintained in the `BugReports/` folder with the following fields:
+
+- Bug ID
+- Title
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Severity (Low/Medium/High)
+- Status (Open/Closed)
+
+---
+
+## 📄 Reports
+
+- **Test Plan** – Located in `TestPlan/`
+- **Bug Reports** – Located in `BugReports/`
+- **Test Summary Report** – Located in `TestSummaryReport/`
+
+---
+
+## 🛠️ How to Use
+
+1. Clone or download this repository
+2. Open the `TestCases/` folder to review test cases
+3. Refer to the `BugReports/` for identified bugs
+4. View `TestSummaryReport/` for project conclusion
+
+---
+
+## 🙌 Credits
+
+This project is part of a 100-Day QA Learning Journey. Created by a passionate QA learner.  
+Follow the journey on [LinkedIn](#) 🌱
+
+---
+
+## 📬 Feedback
+
+Found something missing or want to collaborate?  
+Open an issue or submit a pull request. Let’s grow together in QA!
+
+
