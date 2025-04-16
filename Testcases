@@ -1,0 +1,6 @@
+TestCases/
+├── Login_TestCases.xlsx
+├── ProductSearch_TestCases.xlsx
+├── AddToCart_TestCases.xlsx
+├── PaymentFlow_TestCases.xlsx
+└── OrderConfirmation_TestCases.xlsx
